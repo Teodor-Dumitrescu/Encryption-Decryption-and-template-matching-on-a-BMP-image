@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546609138 source:c:\proiect pp\encryption-decryption and template matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
